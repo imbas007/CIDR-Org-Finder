@@ -13,7 +13,7 @@ The CIDR and Organization Finder is a Python script designed to retrieve CIDR (C
 ## Installation
 1. Clone this repository
 ```
-git clone 
+git clone https://github.com/imbas007/CIDR-Org-Finder.git
 ```
 2. Make the script executable:
 ```
